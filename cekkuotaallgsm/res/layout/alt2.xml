@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white">
+
+    <com.google.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+        android:id="@+id/adview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="a15298d3516ed3b"
+        ads:loadAdOnCreate="true">
+    </com.google.ads.AdView>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:padding="10dip"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_shadow">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cek Kuota Internet"
+            style="@style/bigTitle"
+            android:padding="10dip"/>
+            <View
+                android:layout_width="1dip"
+                android:layout_height="fill_parent"
+                android:background="@android:color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="JMKS DEV"
+            style="@style/midTitle"
+            android:padding="10dip"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dip"/>
+
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_shadow">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Silahkan pilih kartu yang anda gunakan"
+                style="@style/secTitle"
+                android:padding="10dip"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dip"/>
+
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_shadow">
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="2">
+            <ImageButton
+                android:src="@drawable/axis_logo"
+                android:scaleType="fitCenter"
+                android:id="@+id/axis2"
+                android:layout_marginTop="2dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginBottom="2dip"
+                android:layout_width="wrap_content"
+                android:layout_height="50dip"
+                android:layout_weight="1"
+                android:text="Kartu AXIS"
+                style="@style/secTitle"/>
+            <ImageButton android:id="@+id/xl2"
+                android:src="@drawable/xl_logo"
+                android:scaleType="fitCenter"
+                android:layout_marginTop="2dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginBottom="2dip"
+                android:layout_width="wrap_content"
+                android:layout_height="50dip"
+                android:layout_weight="1"
+                android:text="Kartu XL"
+                style="@style/secTitle"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="2">
+            <ImageButton android:id="@+id/tsel2"
+                android:src="@drawable/tsel_logo"
+                android:scaleType="fitCenter"
+                android:layout_marginTop="2dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginBottom="2dip"
+                android:layout_width="wrap_content"
+                android:layout_height="50dip"
+                android:layout_weight="1"
+                android:text="Kartu TELKOMSEL"
+                style="@style/secTitle"/>
+            <ImageButton android:id="@+id/tri2"
+                android:src="@drawable/tri_logo"
+                android:scaleType="fitCenter"
+                android:layout_marginTop="2dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginBottom="2dip"
+                android:layout_width="wrap_content"
+                android:layout_height="50dip"
+                android:layout_weight="1"
+                android:text="Kartu TRI"
+                style="@style/secTitle"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="2">
+                <ImageButton android:id="@+id/smartfren"
+                    android:src="@drawable/sf_logo"
+                    android:scaleType="fitCenter"
+                    android:layout_marginTop="2dip"
+                    android:layout_marginRight="10dip"
+                    android:layout_marginLeft="10dip"
+                    android:layout_marginBottom="2dip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dip"
+                    android:layout_weight="1"
+                    android:text="Kartu TELKOMSEL"
+                    style="@style/secTitle"/>
+                <ImageButton android:id="@+id/im3"
+                    android:src="@drawable/im3_logo"
+                    android:scaleType="fitCenter"
+                    android:layout_marginTop="2dip"
+                    android:layout_marginRight="10dip"
+                    android:layout_marginLeft="10dip"
+                    android:layout_marginBottom="2dip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dip"
+                    android:layout_weight="1"
+                    android:text="Kartu TRI"
+                    style="@style/secTitle"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dip"/>
+
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_shadow">
+            <RelativeLayout
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:padding="10dip"
+                    style="@style/secTitle"
+                    android:textColor="#ff000000"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/app_info" />
+                </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

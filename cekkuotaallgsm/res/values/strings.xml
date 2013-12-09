@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cek Kuota Internet</string>
+    <string name="app_setting">Silahkan pilih kartu yang anda gunakan</string>
+    <string name="app_info">Catatan:\n- Logo operator yang terpasang adalah milik perusahaan tersebut.</string>
+    <string name="app_author">Dev : Catur Budi Raharjo</string>
+    <string name="app_theme">Theme : Coreinzide</string>
+</resources>
