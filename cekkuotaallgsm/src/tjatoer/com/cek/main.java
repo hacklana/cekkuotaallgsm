@@ -32,7 +32,7 @@ public class main extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.alt2);
+		setContentView(R.layout.main_menu);
 		
 	/**	 layout = (LinearLayout) findViewById(R.id.linear);
 		   AdView ad = new AdView(main.this, AdSize.BANNER, "YOUR_PUBLISHER_ID");
@@ -56,6 +56,8 @@ public class main extends Activity {
 
         AdView adView = (AdView)this.findViewById(R.id.adview);
         adView.loadAd(new AdRequest());
+
+        
 
         final PendingIntent sentPI = PendingIntent.getBroadcast(this, 0,
                 new Intent(SENT), 0);

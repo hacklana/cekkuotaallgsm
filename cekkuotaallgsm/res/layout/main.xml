@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/linearLayout1" android:background="@drawable/coreinzide" android:layout_width="fill_parent" android:layout_height="fill_parent"
+<LinearLayout android:orientation="vertical" android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads">
-   <com.google.ads.AdView
-           xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
-           android:id="@+id/adview"
-           android:layout_width="fill_parent"
-           android:layout_height="wrap_content"
-           android:layout_alignParentBottom="true"
-           android:layout_alignParentLeft="true"
-           ads:adSize="BANNER"
-           ads:adUnitId="a15298d3516ed3b"
-           ads:loadAdOnCreate="true">
-    </com.google.ads.AdView>
-    <include layout="@layout/coreinzide_header" />
-		<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" >
-    <LinearLayout android:orientation="vertical" android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <TextView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="@string/app_setting" />
-        <View android:background="@color/coreinzide_devider" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_marginBottom="15.0dip" />
-        <Button android:id="@id/axis" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Kartu AXIS" style="@style/CoreinzidePro" />
-        <Button android:id="@id/tri" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Kartu Tri" style="@style/CoreinzidePro" />
-        <Button android:id="@id/tsel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Kartu Telkomsel" style="@style/CoreinzidePro" />
-        <Button android:id="@id/xl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:text="Kartu Xl" style="@style/CoreinzidePro" />
-        <View android:background="@color/coreinzide_devider" android:layout_width="fill_parent" android:layout_height="2.0dip" />
-        <include layout="@layout/coreinzider" />
-    </LinearLayout>
-    
-		</ScrollView>
-		   
+
 </LinearLayout>

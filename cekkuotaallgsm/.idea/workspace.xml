@@ -11,7 +11,22 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6686a353-87ce-4cd1-8fc1-e5342a749c38" name="Default" comment="" />
+    <list default="true" id="6686a353-87ce-4cd1-8fc1-e5342a749c38" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\drawable\coreinzide.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\drawable\coreinzide_btn.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\drawable\coreinzide_btnn.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\drawable\coreinzide_buble.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\drawable\coreinzide_bubleback.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\drawable\coreinzide_header_top.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\drawable\coreinzide_on.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\layout\coreinzide_header.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\layout\coreinzider.xml" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\hacklana\Documents\GitHub\cekkuotaallgsm\cekkuotaallgsm\res\layout\alt2.xml" afterPath="$PROJECT_DIR$/res/layout/main-menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="cekkuotaallgsm.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,60 +89,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="alt2.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/layout/alt2.xml">
+      <file leaf-file-name="main-menu.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main-menu.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="204" column="51" selection-start="8356" selection-end="8356" vertical-scroll-proportion="1.1965318" vertical-offset="3054" max-vertical-offset="3774">
+            <state line="7" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="3774">
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tjatoer/com/cek/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="8" selection-start="1837" selection-end="1837" vertical-scroll-proportion="0.49595687" vertical-offset="513" max-vertical-offset="4794">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="76" selection-start="115" selection-end="115" vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="187">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="11" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="36" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="238">
+            <state line="8" column="12" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tri.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/tri.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tsel.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/tsel.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xl.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/xl.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -200,7 +209,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/res/drawable/bg_shadow.xml" />
         <option value="$PROJECT_DIR$/res/drawable/bg_shadow_web.xml" />
         <option value="$PROJECT_DIR$/res/layout/axis.xml" />
@@ -216,9 +224,11 @@
         <option value="$PROJECT_DIR$/src/tjatoer/com/cek/tsel.java" />
         <option value="$PROJECT_DIR$/src/tjatoer/com/cek/xl.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/tjatoer/com/cek/main.java" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/layout/alt2.xml" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/tjatoer/com/cek/main.java" />
       </list>
     </option>
   </component>
@@ -254,6 +264,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -360,8 +372,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,19 +458,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -486,6 +483,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -615,18 +625,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39934534" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -636,12 +647,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289689" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -658,6 +668,7 @@
       <TodoPanelSettings />
     </option>
     <option name="SHOW_FILE_HISTORY_DETAILS" value="false" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <MESSAGE value="try 1" />
     <MESSAGE value="try 1&#10;" />
     <option name="LAST_COMMIT_MESSAGE" value="try 1&#10;" />
@@ -668,33 +679,33 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/res/layout/tri.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="134" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/tsel.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/tsel.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/xl.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/xl.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tjatoer/com/cek/tri.java">
@@ -732,14 +743,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/alt2.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/main-menu.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="12" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3672">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/bg_shadow.xml">
@@ -750,23 +761,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="28" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/sf.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/sf.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="31" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="391">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tjatoer/com/cek/sf.java">
@@ -793,19 +804,7 @@
     <entry file="file://$PROJECT_DIR$/src/tjatoer/com/cek/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="104" column="29" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.0" vertical-offset="1768" max-vertical-offset="2465">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#4871#5232#0" expanded="true" />
-            <element signature="e#5205#5206#0" expanded="true" />
-            <element signature="e#9993#10354#0" expanded="true" />
-            <element signature="e#10327#10328#0" expanded="true" />
-            <element signature="e#10405#11388#0" expanded="true" />
-            <element signature="e#11361#11362#0" expanded="true" />
-            <element signature="e#11450#12894#0" expanded="true" />
-            <element signature="e#11979#12778#0" expanded="true" />
-            <element signature="e#12735#12736#0" expanded="true" />
-            <element signature="e#12867#12868#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -815,21 +814,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/axis.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="17" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="391">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/coreinzide.9.png">
-      <provider editor-type-id="images">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="ninepatcheditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
@@ -837,49 +828,6 @@
         <state line="4" column="24" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/coreinzide_btn.9.png">
-      <provider editor-type-id="images">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/coreinzide_btnn.9.png">
-      <provider editor-type-id="images">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/coreinzide_on.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="51" selection-start="249" selection-end="249" vertical-scroll-proportion="0.11888112" vertical-offset="0" max-vertical-offset="572">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/coreinzide_header.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="547">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/coreinzider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="266" selection-start="514" selection-end="772" vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proguard.cfg">
@@ -904,13 +852,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="40" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/bg_shadow_web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="38" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
@@ -925,79 +866,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="28" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="612">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/libs/android-support-v4.jar!/android/support/v4/app/DialogFragment.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="0" selection-start="3154" selection-end="3154" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="1394" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/axis.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="16" selection-start="670" selection-end="704" vertical-scroll-proportion="-8.16" vertical-offset="102" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/im3.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/im3.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="704" selection-end="704" vertical-scroll-proportion="-12.92" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/sf.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/sf.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="703" selection-end="703" vertical-scroll-proportion="-7.56" vertical-offset="134" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/tri.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/tri.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="134" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/tsel.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/tsel.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/xl.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/xl.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="33" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="510">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tjatoer/com/cek/axis.java">
@@ -1056,40 +987,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tjatoer/com/cek/main.java">
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="188" column="23" selection-start="8462" selection-end="8462" vertical-scroll-proportion="0.45013478" vertical-offset="2485" max-vertical-offset="5321">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#4871#5232#0" expanded="true" />
-            <element signature="e#5205#5206#0" expanded="true" />
-            <element signature="e#9993#10354#0" expanded="true" />
-            <element signature="e#10327#10328#0" expanded="true" />
-            <element signature="e#10405#11388#0" expanded="true" />
-            <element signature="e#11361#11362#0" expanded="true" />
-            <element signature="e#11450#12894#0" expanded="true" />
-            <element signature="e#11979#12778#0" expanded="true" />
-            <element signature="e#12735#12736#0" expanded="true" />
-            <element signature="e#12867#12868#0" expanded="true" />
-          </folding>
+        <state line="1" column="11" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="36" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+        <state line="8" column="12" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/alt2.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="51" selection-start="8356" selection-end="8356" vertical-scroll-proportion="1.1965318" vertical-offset="3054" max-vertical-offset="3774">
+        <state line="1" column="76" selection-start="115" selection-end="115" vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="187">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main-menu.xml">
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="3774">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tjatoer/com/cek/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="8" selection-start="1837" selection-end="1837" vertical-scroll-proportion="0.49595687" vertical-offset="513" max-vertical-offset="4794">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
